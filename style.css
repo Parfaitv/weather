@@ -1,0 +1,72 @@
+html, pre {
+    font-family: sans-serif;
+}
+
+body {
+    width: 550px;
+    margin: 0 auto;
+    background-color: white;
+}
+label {
+    width: 100px;
+    margin-right: 33px;
+    
+}
+
+select {
+    width: 350px;
+    padding: 5px;
+    margin-top: 25vh;
+    display: inline-block;
+}
+
+pre {
+    margin: 15px;
+    line-height: 0.8;
+    background-color: #ffff;
+}
+
+h2{
+    padding-left: 0.5ex;
+    margin: 20px;
+}
+
+section{
+    line-height: 0.1;
+    padding: 2px;
+}
+
+.fromTo{
+    font-weight: normal;
+    font-size: medium;
+}
+
+.temperature{
+    text-align: left;
+    margin-left: 2vh;
+}
+
+.temperature p { 
+    padding: 5px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+.wind {
+    text-align: left;
+    margin-left: 2vh;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.descrip {
+    
+    font-size: 14px;
+}
+
+.date {
+    margin-left: 35px;
+    margin: 10px;
+    left: 140px;
+    top: 375px;
+}
